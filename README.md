@@ -1,4 +1,4 @@
-# Test Project Built by sriram
+# Java Spring Boot Project Built by sriram
 
 ## Specifications:
  - Postgres DB
